@@ -9,3 +9,6 @@ Aritifical Neural Network for Credit Card Fraud Detection
 * keras
 * tensorflow
 * sklearn
+
+I have written a Research Paper related to this project. And this research paper got accepted at IEEE ICICCS Conference May 2020.
+
